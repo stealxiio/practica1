@@ -1,8 +1,8 @@
-#Tutorial Git
+# Tutorial Git
 
 *En este tutorial veremos algunos comandos basicos para configurar y utilizar git.*
 
-##Ventajas
+## Ventajas
 
 **Git**
 * Habilidad de deshacer cambios.
