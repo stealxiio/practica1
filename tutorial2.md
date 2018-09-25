@@ -1,4 +1,4 @@
-## Comandos Básicos I
+## Comandos Básicos 1
 
 *Iniciar repositorio en un directorio:*
 ~~~

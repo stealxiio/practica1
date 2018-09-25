@@ -1,4 +1,4 @@
-## Comandos Básicos VII
+## Comandos Básicos 7
 
 *Examinar el contenido de un commit:*
 ~~~

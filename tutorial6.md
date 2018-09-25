@@ -1,4 +1,4 @@
-## Comandos Básicos V
+## Comandos Básicos 5
 
 *Deshacer multiples cambios en el repositorio:*
 ~~~

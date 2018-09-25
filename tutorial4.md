@@ -1,4 +1,4 @@
-## Comandos Básicos III
+## Comandos Básicos 3
 
 *Ver diferencia entre ficheros en el directorio y el respositorio de git:*
 ~~~
