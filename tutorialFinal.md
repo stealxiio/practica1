@@ -210,7 +210,9 @@ git diff id..id nombre_archivo
 
 Esta es la forma para separar la linea acutal de desarrollo con respecto a la principal. Normalmente representan versiones del software que posteriormente son integradas en la principal.
 
-![Imagen de ramas](https://fr.lutece.paris.fr/fr/image?resource_type=wiki_image&id=10)## Comandos Ramas 1
+![Imagen de ramas](https://fr.lutece.paris.fr/fr/image?resource_type=wiki_image&id=10)
+
+## Comandos Ramas 1
 
 *Ver listado de ramas:*
 ~~~
@@ -297,7 +299,9 @@ git  stash  pop  nombre_stash
 
 *Github y Git son herramientas complementarias pero no son lo mismo.*
 
-![Imagen de ramas](https://cdn-images-1.medium.com/max/1600/1*qwFrTMnFkcd3U9rFKwwacw.png)## Comandos GitHub 1
+![Imagen de ramas](https://cdn-images-1.medium.com/max/1600/1*qwFrTMnFkcd3U9rFKwwacw.png)
+
+## Comandos GitHub 1
 
 *Añadir repositorio remoto:*
 ~~~
